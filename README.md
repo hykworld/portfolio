@@ -12,7 +12,7 @@
 <p>
   public class hwangyoonki {
     <p>
-    <span style="margin-left: 20px;">String name = hwangyoonki;</span>
+    <span style="margin-left: 50px;">String name = hwangyoonki;</span>
     <p>
     <span style="margin-left: 20px;">int birthdate = 19900910;</span>
     <p>
