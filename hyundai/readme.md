@@ -3,4 +3,4 @@
 사용기술
 html5, css3, bootstrap, responsive web
 
-[현대](https://hykworld.github.io/portfolio/hyundai)
+https://hykworld.github.io/portfolio/hyundai
